@@ -1,1 +1,1 @@
-# kinopoisk_1000_recsys
+# book_recsys
